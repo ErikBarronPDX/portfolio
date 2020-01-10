@@ -24,3 +24,7 @@ body {
   border: black;
   border-width: 5px;
 }
+
+h6 {
+  font-weight: bold;
+}
