@@ -27,4 +27,14 @@ body {
 
 h6 {
   font-weight: bold;
+  line-height: 0px;
+  margin-top: 5px;
+}
+
+ul {
+  padding: 0;
+}
+
+li  {
+  list-style-type: none;
 }
