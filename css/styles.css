@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(230, 227, 227);
+}
+
 #title {
   text-align: center;
 }
@@ -10,4 +14,13 @@
 
 .panel-heading {
   background-color: lightskyblue;
+}
+
+#erik {
+  width: 200px;
+  float: left;
+  padding-right: 30px;
+  border-style: solid;
+  border: black;
+  border-width: 5px;
 }
