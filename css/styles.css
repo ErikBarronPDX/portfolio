@@ -1,0 +1,13 @@
+#title {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: rgb(136, 253, 146);
+  font-family: garamond;
+  font-weight: bolder;
+}
+
+.panel-heading {
+  background-color: lightskyblue;
+}
