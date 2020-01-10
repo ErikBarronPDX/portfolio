@@ -24,6 +24,7 @@ For more information regarding this page or any others linked, please e-mail tod
 
 * HTML
 * CSS
+* CSS: Bootstrap
 * Mark Down
 
 ### License
