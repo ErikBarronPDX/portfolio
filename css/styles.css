@@ -10,6 +10,7 @@ body {
   background-color: rgb(76, 252, 90);
   font-family: sans-serif;
   font-weight: bolder;
+  padding: 10px;
 }
 
 .panel-heading {
@@ -17,9 +18,9 @@ body {
 }
 
 img {
-  width: 200px;
+  width: 175px;
   float: left;
-  padding-right: 30px;
+  margin-right: 20px;
   border-style: solid;
   border: black;
   border-width: 5px;
