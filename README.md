@@ -6,7 +6,7 @@
 
 ## Description
 
-This project was assigned as an independant project for the Epicodus cirriculum on 1/10/20. It contains a summary of the skills leared so far with examples of each of those skills and links to their respective respository.
+This project was assigned as an independant project for the Epicodus cirriculum on 1/10/20. It contains a summary of the skills leared so far with examples of each of those skills and links to their respective respository. The GH-Pages for this project can be found at: [https://todayisagrnday21.github.io/portfolio/](https://todayisagrnday21.github.io/portfolio/)
 
 ## Setup / Installation Requirements
 
